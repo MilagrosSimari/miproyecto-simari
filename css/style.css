@@ -219,6 +219,13 @@
 
     .nav {
         flex-direction: row;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        justify-content: center;
+    }
+
+    .logo {
+        width: 100%
     }
 
 }
